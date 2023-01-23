@@ -1,0 +1,15 @@
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\bin\Debug\net7.0\04ExercicioImc.exe
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\bin\Debug\net7.0\04ExercicioImc.deps.json
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\bin\Debug\net7.0\04ExercicioImc.runtimeconfig.json
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\bin\Debug\net7.0\04ExercicioImc.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\bin\Debug\net7.0\04ExercicioImc.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\refint\04ExercicioImc.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\04ExercicioImc.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\04ExercicioImc\obj\Debug\net7.0\ref\04ExercicioImc.dll

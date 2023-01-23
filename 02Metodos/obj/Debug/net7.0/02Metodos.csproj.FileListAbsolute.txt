@@ -1,0 +1,15 @@
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\bin\Debug\net7.0\02Metodos.exe
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\bin\Debug\net7.0\02Metodos.deps.json
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\bin\Debug\net7.0\02Metodos.runtimeconfig.json
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\bin\Debug\net7.0\02Metodos.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\bin\Debug\net7.0\02Metodos.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\refint\02Metodos.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\02Metodos.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\02Metodos\obj\Debug\net7.0\ref\02Metodos.dll

@@ -1,0 +1,15 @@
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\bin\Debug\net7.0\12Estatico.exe
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\bin\Debug\net7.0\12Estatico.deps.json
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\bin\Debug\net7.0\12Estatico.runtimeconfig.json
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\bin\Debug\net7.0\12Estatico.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\bin\Debug\net7.0\12Estatico.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\refint\12Estatico.dll
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.pdb
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\12Estatico.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Orientação a objeto\12Estatico\obj\Debug\net7.0\ref\12Estatico.dll
